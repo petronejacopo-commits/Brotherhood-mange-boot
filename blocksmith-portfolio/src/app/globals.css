@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@theme {
+  --color-sfondo: #1E0F05; --color-sfondo-card: #2D1A0A; --color-sfondo-hover: #3A1F0D;
+  --color-oro: #D9A63E; --color-arancio: #DC4424; --color-mattone: #803014;
+  --color-giallo: #F5D64E; --color-bianco: #FFFFFF; --color-testo-secondario: #C4A86A;
+  --font-family-cinzel: 'Cinzel', serif; --font-family-inter: 'Inter', sans-serif;
+  --font-family-space: 'Space Grotesk', sans-serif;
+}
+body { font-family: var(--font-family-inter); background-color: var(--color-sfondo); color: var(--color-bianco); }
