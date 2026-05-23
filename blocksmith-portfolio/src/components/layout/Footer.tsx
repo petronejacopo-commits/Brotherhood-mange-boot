@@ -27,7 +27,7 @@ export function Footer() {
           {/* Column 3: Studio */}
           <div className="flex flex-col gap-4">
             <h3 className="font-[var(--font-family-cinzel)] font-bold text-[#D9A63E] text-xl mb-2">Studio</h3>
-            <Link href="/about" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">Chi Sono</Link>
+            <Link href="/chi-sono" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">Chi Sono</Link>
             <Link href="/team" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">Il Team</Link>
             <Link href="/mydevs" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">Sviluppatori</Link>
             <Link href="/careers" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">Lavora con noi</Link>
@@ -36,7 +36,7 @@ export function Footer() {
           {/* Column 4: Contatti */}
           <div className="flex flex-col gap-4">
             <h3 className="font-[var(--font-family-cinzel)] font-bold text-[#D9A63E] text-xl mb-2">Contatti</h3>
-            <Link href="/commissions" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">Richiedi un Progetto</Link>
+            <Link href="/commissioni" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">Richiedi un Progetto</Link>
             <Link href="/press" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">Press Kit</Link>
             <a href="mailto:info@blocksmith.studio" className="text-[#C4A86A] hover:text-[#F5D64E] transition-colors text-sm">info@blocksmith.studio</a>
           </div>

@@ -11,9 +11,9 @@ export function Navigation() {
 
   const menuItems = [
     { label: 'Home', path: '/' },
-    { label: 'Chi Sono', path: '/about' },
+    { label: 'Chi Sono', path: '/chi-sono' },
     { label: 'Blocksmith', path: '/blocksmith' },
-    { label: 'Commissioni', path: '/commissions' },
+    { label: 'Commissioni', path: '/commissioni' },
     { label: 'My Devs', path: '/mydevs' },
     { label: 'Team', path: '/team' },
     { label: 'Network', path: '/network' },

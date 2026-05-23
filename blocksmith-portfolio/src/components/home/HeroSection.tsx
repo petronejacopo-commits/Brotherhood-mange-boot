@@ -43,7 +43,7 @@ export function HeroSection() {
           <AmberButton variant="primary" href="/mydevs">
             Esplora Progetti
           </AmberButton>
-          <AmberButton variant="secondary" href="/about">
+          <AmberButton variant="secondary" href="/chi-sono">
             Chi Sono
           </AmberButton>
         </div>

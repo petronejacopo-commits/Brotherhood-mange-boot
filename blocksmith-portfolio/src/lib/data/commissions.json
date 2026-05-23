@@ -1,0 +1,40 @@
+{
+  "pageTitle": "Commissioni",
+  "pageSubtitle": "Servizi e soluzioni su misura per il tuo progetto.",
+  "uxui": {
+    "titolo": "UX/UI Design",
+    "descrizione": "Progettiamo interfacce utente intuitive e coinvolgenti, focalizzate sull'esperienza del giocatore e sulla conversione.",
+    "cards": [
+      {
+        "titolo": "Interfacce in-game",
+        "descrizione": "Menu, HUD e inventari progettati per non interrompere l'immersione."
+      },
+      {
+        "titolo": "Siti Web & Portali",
+        "descrizione": "Landing page per server, store e dashboard personalizzate."
+      },
+      {
+        "titolo": "Design System",
+        "descrizione": "Librerie di componenti scalabili e coerenti per il tuo brand."
+      }
+    ]
+  },
+  "lore": {
+    "titolo": "Lore Design",
+    "testo": "Costruire un mondo non significa solo disegnare una mappa. Significa scrivere la storia, definire le fazioni, creare conflitti credibili e personaggi con motivazioni reali. Scriviamo lore che i giocatori vogliono esplorare, regole del mondo che influenzano le meccaniche di gioco e trame che si evolvono con la community."
+  },
+  "social": {
+    "titolo": "Social Media Manager",
+    "descrizione": "Gestione strategica della community e della comunicazione esterna.",
+    "cards": [
+      {
+        "titolo": "Community Management",
+        "descrizione": "Gestione Discord, moderazione e coinvolgimento degli utenti."
+      },
+      {
+        "titolo": "Content Strategy",
+        "descrizione": "Pianificazione editoriale per Instagram, TikTok e annunci in-game."
+      }
+    ]
+  }
+}
