@@ -1,0 +1,44 @@
+{
+  "storia": [
+    "Blocksmith nasce nell'agosto del 2020. Era il periodo del lockdown, e come molti ragazzi in quel momento, passavo intere giornate al computer. Da semplice giocatore e fondatore di piccoli server Minecraft tra il 2018 e il 2019, ho iniziato a capire che volevo fare di più: volevo creare.",
+    "Tutto è iniziato con un amico di scuola. Abbiamo aperto il nostro primo vero progetto, un server che ha superato le nostre aspettative raggiungendo 150 giocatori online quasi subito. Poi è crollato. Non eravamo pronti, né tecnicamente né mentalmente. Ho passato i successivi due mesi a studiare giorno e notte l'architettura dei server di Minecraft, imparando a compilare codice da solo e cercando le risposte che mi mancavano. Da quel fallimento è nato il metodo che usiamo ancora oggi."
+  ],
+  "cosaFacciamo": [
+    {
+      "titolo": "Sviluppo Backend & Architettura",
+      "descrizione": "Progettiamo sistemi solidi. Non ci interessa la superficie se le fondamenta non reggono."
+    },
+    {
+      "titolo": "Game & Lore Design",
+      "descrizione": "Costruiamo mondi coerenti, con meccaniche bilanciate ed economie che funzionano."
+    },
+    {
+      "titolo": "Consulenza e Gestione",
+      "descrizione": "Prendiamo un'idea e la trasformiamo in un progetto operativo, gestendo team, tempi e risorse."
+    }
+  ],
+  "comeLavoriamo": [
+    "Non siamo un'agenzia tradizionale. Non abbiamo orari da ufficio o processi lenti. Siamo un team operativo che si attiva quando serve, con chi serve.",
+    "Lavoriamo in modo asincrono, comunicando in modo diretto e focalizzato. Niente riunioni infinite se basta un messaggio. Questo ci permette di essere veloci ed efficienti, lavorando in parallelo su diverse componenti di un progetto.",
+    "La filosofia della Forgia: forgiamo sistemi resistenti."
+  ],
+  "aChiCiRivolgiamo": [
+    "Ai creator che vogliono monetizzare in modo etico la loro community.",
+    "Agli imprenditori che hanno un'idea nel gaming e cercano qualcuno che la realizzi.",
+    "Ai team che hanno bisogno di un supporto tecnico specializzato o di una direzione."
+  ],
+  "doveSiamo": [
+    "Siamo ovunque ci sia una connessione. Non abbiamo un ufficio fisico, ma abbiamo una Forgia digitale dove tutto prende forma. Siamo nativi digitali, remote-first per definizione."
+  ],
+  "manifesto": [
+    "Il prodotto viene prima dell'ego.",
+    "Un sistema rotto va smontato, non riparato con il nastro adesivo.",
+    "La trasparenza è l'unica valuta che non svaluta.",
+    "Costruiamo per durare, non per il guadagno rapido.",
+    "La curiosità è il nostro miglior strumento di debugging."
+  ],
+  "impegno": {
+    "titolo": "Il Modello Quasi No-Profit",
+    "testo": "Operiamo con un modello che definisco 'quasi no-profit'. I ricavi dello studio non servono per arricchirci individualmente, ma vengono costantemente reinvestiti in nuovi tool, hardware migliore, ricerca, test e nel supporto al nostro team. Questo ci permette di sperimentare senza l'ansia del margine immediato e di mantenere una qualità tecnica altissima."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "pageTitle": "Chi Sono",
+  "pageSubtitle": "Fondatore & Backend Architect",
+  "paragraphs": [
+    "Ho iniziato a programmare nel 2020, durante il lockdown. Avevo 14 anni. Niente scuola in presenza, niente fuori — solo il computer. Ho iniziato per curiosità, senza corsi, senza nessuno che mi guidasse. Java prima, poi i sistemi backend, poi l'architettura. Studiavo da solo, la notte, finché non capivo come funzionava una cosa.",
+    "Nel 2021, a 15 anni, ho aperto Blocksmith. Non era un piano — era la cosa naturale da fare. Avevo già un metodo, avevo già dei progetti, mancava solo un nome sopra. Ho imparato a gestire tutto in autonomia: la parte tecnica, quella amministrativa, i clienti, i flussi di lavoro.",
+    "A fine 2023 sono entrato in AzureMC per aiutare un amico. Ero tra i fondatori del progetto e contribuivo anche economicamente. Ho iniziato occupandomi di lore design, UX/UI e game design — è lì che ho imparato queste cose davvero, su un progetto reale con utenti reali.",
+    "Nel 2024, mentre ero ancora in AzureMC, ho ricevuto un ban ingiusto su una piattaforma. Invece di lasciar perdere ho iniziato a studiare come funzionano le regole di queste piattaforme. Sono andato in profondità per mesi. Da quella storia è nato qualcosa di concreto.",
+    "Ad agosto 2025 ho iniziato a lavorare come tester professionista su sistemi reali, focalizzandomi su debugging e sicurezza. Ho continuato fino ad aprile 2026.",
+    "A gennaio 2026 ho iniziato ad aiutare ufficialmente utenti e creator che si trovano nella mia stessa situazione con i ban sulle piattaforme.",
+    "Oggi, maggio 2026, ho 20 anni. Blocksmith è il progetto principale. Tutto il resto è stato il percorso per arrivare qui."
+  ],
+  "stats": [
+    { "label": "CODING", "value": 95 },
+    { "label": "DESIGN", "value": 90 },
+    { "label": "LEADERSHIP", "value": 88 },
+    { "label": "PROBLEM SOLVING", "value": 96 },
+    { "label": "GRIND", "value": 100 }
+  ],
+  "specialAbility": "FORGE VISION — Trasformare la curiosità in sistemi che funzionano.",
+  "timeline": [
+    { "year": 2020, "title": "Il Lockdown & La Svolta Tech", "description": "A 14 anni inizio a programmare. Studio metodico backend Java.", "status": "completato" },
+    { "year": 2021, "title": "L'Anima Imprenditoriale", "description": "A 15 anni fondo BLOCKSMITH. Gestione autonoma.", "status": "completato" },
+    { "year": 2024, "title": "La Spinta Legal Tech", "description": "Studio DSA dopo ban ingiusto.", "status": "completato" },
+    { "year": 2025, "title": "QA Tester & ServerWatch", "description": "Debugging e sicurezza sistemi.", "status": "completato" },
+    { "year": 2026, "title": "Oggi", "description": "Profilo consolidato, mercato internazionale.", "status": "in-corso" }
+  ]
+}
